@@ -1,2 +1,3 @@
-# hello-world
-A repository I created while following a written tutorial.
+#I am Kimi and new at writing code,
+
+*It's **FUN***
